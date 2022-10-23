@@ -1,0 +1,16 @@
+{
+  "name": "scaling-nodejs-cluster",
+  "version": "1.0.0",
+  "description": "cluster module to scale nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cluster",
+    "nodejs"
+  ],
+  "author": "Taylan Kalkan",
+  "license": "ISC"
+}
